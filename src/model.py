@@ -1,7 +1,7 @@
 #!/bin/python3
 
 # -*- Author: Ali (Real0x0a1) -*-
-# -*- File:  -*-
+# -*- File: model.py -*-
 
 import numpy as np
 
