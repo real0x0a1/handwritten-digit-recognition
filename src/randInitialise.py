@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# -*- Author:  -*-
+
 import numpy as np
 
 def initialise(a, b):
