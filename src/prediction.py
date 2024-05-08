@@ -1,6 +1,6 @@
 #!/bin/python3
 
-# -*- Author: Ali  -*-
+# -*- Author: Ali Real0x0a1 -*-
 
 import numpy as np
 
