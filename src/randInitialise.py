@@ -1,7 +1,7 @@
 #!/bin/python3
 
 # -*- Author: Ali -*-
-# -*- File: -*-
+# -*- File: randInitialise.py -*-
 
 import numpy as np
 
