@@ -68,3 +68,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 - This project is inspired by the famous MNIST dataset.
 - Special thanks to contributors and developers of NumPy, scipy, and tkinter libraries.
+
+## Author
+
+Ali (Real0x0a1)
+
+---
