@@ -1,3 +1,6 @@
+#!/bin/python3
+
+
 import numpy as np
 
 from src.prediction import predict
