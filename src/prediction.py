@@ -1,3 +1,6 @@
+#!/bin/python3
+
+
 import numpy as np
 
 def predict(Theta1, Theta2, X):
